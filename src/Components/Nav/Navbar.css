@@ -1,0 +1,53 @@
+.container{
+    height: 60px;
+padding: 10px 20px;
+display: flex;
+justify-content: space-between;
+flex :1;
+
+background-color: black;
+align-items: baseline;
+ 
+}
+
+.searchcontainer{
+    display: flex;
+    padding: 5px;
+    color: grey;
+    font-size: 16px;
+}
+
+span{
+    color: red;
+}
+.center{
+    font-weight: bold;
+}
+.right{
+    display: flex;
+}
+.shoppingcard{
+    margin-left: 25px;
+}
+.reg{
+    margin-left: 25px;
+    color: white;
+    cursor: pointer;
+    height: 30px;
+
+
+}
+.sig{
+    margin-left: 25px;
+    cursor: pointer;
+height: 30px;
+
+color: white;
+}
+
+.game{
+    color: white;
+}
+.input{background-color: rgb(100, 75, 75);
+}
+
